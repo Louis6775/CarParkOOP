@@ -1,0 +1,12 @@
+C:\Users\Louis6775\source\repos\CarParkExersice\bin\Debug\netcoreapp3.1\CarParkExersice.exe
+C:\Users\Louis6775\source\repos\CarParkExersice\bin\Debug\netcoreapp3.1\CarParkExersice.deps.json
+C:\Users\Louis6775\source\repos\CarParkExersice\bin\Debug\netcoreapp3.1\CarParkExersice.runtimeconfig.json
+C:\Users\Louis6775\source\repos\CarParkExersice\bin\Debug\netcoreapp3.1\CarParkExersice.runtimeconfig.dev.json
+C:\Users\Louis6775\source\repos\CarParkExersice\bin\Debug\netcoreapp3.1\CarParkExersice.dll
+C:\Users\Louis6775\source\repos\CarParkExersice\bin\Debug\netcoreapp3.1\CarParkExersice.pdb
+C:\Users\Louis6775\source\repos\CarParkExersice\obj\Debug\netcoreapp3.1\CarParkExersice.csprojAssemblyReference.cache
+C:\Users\Louis6775\source\repos\CarParkExersice\obj\Debug\netcoreapp3.1\CarParkExersice.AssemblyInfoInputs.cache
+C:\Users\Louis6775\source\repos\CarParkExersice\obj\Debug\netcoreapp3.1\CarParkExersice.AssemblyInfo.cs
+C:\Users\Louis6775\source\repos\CarParkExersice\obj\Debug\netcoreapp3.1\CarParkExersice.dll
+C:\Users\Louis6775\source\repos\CarParkExersice\obj\Debug\netcoreapp3.1\CarParkExersice.pdb
+C:\Users\Louis6775\source\repos\CarParkExersice\obj\Debug\netcoreapp3.1\CarParkExersice.genruntimeconfig.cache
